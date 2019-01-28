@@ -129,6 +129,10 @@ public class MainActivity extends AppCompatActivity {
 
 
     public void gittest() {
-        
+
+    }
+
+    public void gitTest2(){
+
     }
 }
