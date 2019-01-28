@@ -20,7 +20,7 @@
             android:layout_width="0dip"
             android:layout_weight="1"
             android:layout_height="wrap_content"
-            android:hint="키(cm):170 등"
+            android:hint="키(cm):171 등"
             android:inputType="numberDecimal"
             />
         <EditText
