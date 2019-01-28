@@ -135,4 +135,12 @@ public class MainActivity extends AppCompatActivity {
     public void gitTest2(){
 
     }
+
+    public void gitTest3(){
+
+    }
+
+    public void gitTest4(){
+
+    }
 }
