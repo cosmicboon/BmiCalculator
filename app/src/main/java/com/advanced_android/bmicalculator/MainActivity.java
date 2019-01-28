@@ -126,4 +126,9 @@ public class MainActivity extends AppCompatActivity {
             mCalcButton.setEnabled(true);
         }
     }
+
+
+    public void gittest() {
+        
+    }
 }
